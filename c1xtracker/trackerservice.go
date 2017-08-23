@@ -6,7 +6,7 @@ import (
 
 func Start() {
 	c1xcore.AddRoutes(
-		"GetLocation",
+		"trackC",
 		"GET",
 		"/c",
 		trackC,
