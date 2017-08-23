@@ -11,5 +11,5 @@ func Start() {
 		"/c",
 		trackC,
 	)
-	c1xcore.Start("8090", "/v1")
+	c1xcore.Start("8090", "/v2")
 }
